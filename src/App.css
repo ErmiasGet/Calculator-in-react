@@ -1,0 +1,148 @@
+.container {
+    background-color: #054d24;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .calculator {
+    background-color: rgb(14, 12, 11);
+    border-radius: 10px;
+    width: 20%;
+    height: 55vh;
+  }
+  
+  .inputBox input {
+    background-color: rgb(124, 124, 131);
+    border-radius: 10px;
+    color: rgb(89, 69, 69);
+    font-weight: bold;
+    font-size: 20px;
+    width: 84%;
+    height: 6vh;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .row-1 .ac {
+    background-color:  rgb(97, 3, 11);
+  }
+  
+  .row-1 .de {
+    background-color:  rgb(3, 107, 93);
+  }
+  
+  .row-1 .hash {
+    background-color:  rgb(160, 110, 34);
+  }
+  
+  .row-1 input {
+    background-color: rgb(95, 87, 81);
+    color:white;
+    border-radius: 8px;
+    width: 21%;
+    height: 7vh;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    margin-left: 5px;
+  }
+  
+  .row-1 {
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+  
+  .row-2 {
+    margin-left: 15px;
+  }
+  
+  .row-3 {
+    margin-left: 15px;
+  }
+  
+  .row-4 {
+    margin-left: 15px;
+  }
+  
+  .row-5 {
+    margin-left: 15px;
+  }
+  
+  
+  .row-2 input {
+    background-color: rgb(32, 56, 78);
+    color:white;
+    border-radius: 8px;
+    width: 21%;
+    height: 7vh;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+  
+  }
+  
+  .row-2 .star {
+    background-color:  rgb(160, 110, 34);
+  }
+  
+  .row-3 input {
+    background-color: rgb(32, 56, 78);
+    color:white;
+    border-radius: 8px;
+    width: 21%;
+    height: 7vh;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+  
+  }
+  
+  .row-3 .plus {
+    background-color:  rgb(160, 110, 34);
+  }
+  
+  .row-4 input {
+    background-color: rgb(32, 56, 78);
+    color:white;
+    border-radius: 8px;
+    width: 21%;
+    height: 7vh;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+  
+  }
+  
+  .row-4 .minus {
+    background-color:  rgb(160, 110, 34);
+  }
+  
+  .row-5 .equalSign {
+    width: 43%;
+    height: 7vh;
+    background-color: rgb(6, 107, 11);
+  }
+  
+  .row-5 input {
+    background-color: rgb(32, 56, 78);
+    color:white;
+    border-radius: 8px;
+    width: 21%;
+    height: 7vh;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+  
+  }
